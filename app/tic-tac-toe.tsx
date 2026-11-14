@@ -102,6 +102,9 @@ export function TicTacToe() {
                       </button>
                     </div>
                   ))}
+                  <svg className="board-grid" viewBox="0 0 300 300" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+                    <path d="M100 0V300 M200 0V300 M0 100H300 M0 200H300" vectorEffect="non-scaling-stroke" strokeDasharray="4 4" />
+                  </svg>
                 </div>
                 {outcome.winner && <div className="confetti" aria-hidden="true">{Array.from({ length: 28 }, (_, i) => <i key={`${game.round}-${i}`} />)}</div>}
               </div>
