@@ -2,7 +2,7 @@
 
 A two-player tic-tac-toe game built with React and Next.js. A blush game mat, coral board, original SVG monster avatars, and GSAP animations bring a playful feel to a classic game.
 
-**[Play the live demo](https://tictactoe-ruby-one.vercel.app/)** · **[Browse the source](https://github.com/Incognitomode669/Tic-Tack-Toe)**
+**[Play the live demo](https://tic-tac-toe-hazel-mu-98.vercel.app/)** · **[Browse the source](https://github.com/Incognitomode669/Tic-Tack-Toe)**
 
 ![Desktop gameplay](docs/screenshots/desktop-game.jpg)
 
@@ -76,12 +76,12 @@ The shadcn CLI is a development dependency. `npm audit --omit=dev` reports zero 
 
 ## Deployment
 
-The public app URL is [tictactoe-ruby-one.vercel.app](https://tictactoe-ruby-one.vercel.app/). To deploy another instance on Vercel, use the Next.js preset, the `npm run build` command, and default output settings. No environment variables or database setup are required.
+The public app URL is [tic-tac-toe-hazel-mu-98.vercel.app](https://tic-tac-toe-hazel-mu-98.vercel.app/). To deploy another instance on Vercel, use the Next.js preset, the `npm run build` command, and default output settings. No environment variables or database setup are required.
 
 ## Submission links
 
 - **Test:** 1) Tic-Tac-Toe
-- **Live app:** https://tictactoe-ruby-one.vercel.app/
+- **Live app:** https://tic-tac-toe-hazel-mu-98.vercel.app/
 - **Repository:** https://github.com/Incognitomode669/Tic-Tack-Toe
 - **Screenshots:** [desktop gameplay](docs/screenshots/desktop-game.jpg), [winning round](docs/screenshots/winning-round.jpg), [instructions](docs/screenshots/how-to-play.jpg), [mobile gameplay](docs/screenshots/mobile-game.jpg).
 - **Application form:** https://apply.capm.us
